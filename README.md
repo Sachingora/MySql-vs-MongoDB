@@ -19,6 +19,7 @@ This project explores the comparative performance of MySQL (SQL) and MongoDB (No
 🔹 Forecasting Models: ARIMA (time-series), LSTM (deep learning)
 
 **Key Features:**
+
 ✅ Big Data Storage & Processing: SQL vs NoSQL comparative study for efficiency, scalability, and performance
 
 ✅ Sentiment Analysis: Analyzes Twitter data to classify stock-related sentiment (positive, neutral, negative)
